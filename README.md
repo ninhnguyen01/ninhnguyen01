@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ninh
+- 👋 Hi, I’m Ninh.
 - 👀 I’m interested in Information Systems.
 - 🌱 I’m currently learning Python, stats, and UML diagrams.
 - 💞️ I’m looking to collaborate in the future.
