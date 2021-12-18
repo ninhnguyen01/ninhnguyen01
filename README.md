@@ -2,7 +2,7 @@
 - 👀 I’m interested in Information Systems.
 - 🌱 I’m currently learning Python, stats, and UML diagrams.
 - 💞️ I’m looking to collaborate in the future.
-- 📫 Reach me here on Github. 
+- 📫 Reach me here on Github or any associated websites. 
 
 <!---
 ninh-nguyen01/ninh-nguyen01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
