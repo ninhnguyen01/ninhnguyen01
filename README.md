@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ninh.
 - 👀 I’m interested in Information Systems.
-- 🌱 I’m currently learning Python, HTML/CSS, Java, and UML diagrams.
+- 🌱 I’m currently learning Python, HTML/CSS, Javascript, Java, and UML diagrams.
 - 💞️ I’m looking to collaborate in the future.
 - 📫 Reach me here on Github or any associated websites. 
 
