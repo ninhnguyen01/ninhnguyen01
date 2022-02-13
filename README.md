@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ninh.
 - 👀 I’m interested in Information Systems.
-- 🌱 I’m currently learning SQL and HTML/CSS.
+- 🌱 I’m currently learning SQL, Python, and R.
 - 💞️ I’m looking to collaborate in the future.
 - 📫 Reach me here on Github or any associated websites. 
 
