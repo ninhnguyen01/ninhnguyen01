@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ninh.
 - 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Python and Machine Learning.
 - 💞️ I’m looking to collaborate in the future.
 - 📫 Reach me here on Github or any associated websites. 
 
