@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Ninh.
-- 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently learning Python and Machine Learning.
-- 💞️ I’m looking to collaborate in the future.
-- 📫 Reach me here on Github or any associated websites. 
+- 👀 I’m an Information Systems graduate.
+
 
 <!---
 ninh-nguyen01/ninh-nguyen01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
