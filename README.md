@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ninh.
-- 👀 I’m an Information Systems graduate.
+- 👀 I’m a data analytics person.
 
 
 <!---
