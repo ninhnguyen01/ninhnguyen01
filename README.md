@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ninh.
-- 👀 I’m a Data Engineer Intern.
+- 👀 I’m a Data Engineer.
 
 
 <!---
