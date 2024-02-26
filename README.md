@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ninh.
+- 👋 Hi, I’m Nicholas.
 - 👀 I’m a Data Engineer.
 
 
