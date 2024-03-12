@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicholas.
-- 👀 I’m a Data Engineer.
+- 👀 See you in my engineering life.
 
 
 <!---
