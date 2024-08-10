@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nicholas.
+- 👋 Hi, I’m Ninh.
 - 👀 See you in my engineering life.
 
 
