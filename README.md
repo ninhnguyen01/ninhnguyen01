@@ -1,6 +1,21 @@
-- 👋 Hi, I’m Ninh.
-- 👀 See you in my engineering life.
+<head>
+  <pre>
+- 👋 Hi, I’m Ninh. I'm a software developer.
+- 💻 See you in my engineering life.
+  </pre>
+</head>
+<br>
 
+<body>
+    <h1>💻 Tech Stack</h1>
+    <ul>
+        <li>👨‍💻 <strong>Programming:</strong> Python 🐍 | HTML 🌐 | CSS 🎨 | JavaScript ✨ | Node.js 🛠️ | React.js ⚛️</li>
+        <li>🛠️ <strong>Platform:</strong> Visual Studio Code 🖋️ | Anaconda 🐍 | Google Colab 📓</li>
+        <li>📊 <strong>Data Visualization:</strong> Tableau 📈</li>
+        <li>☁️ <strong>Cloud Computing:</strong> Amazon Web Services (AWS) 🖥️</li>
+    </ul>
+  <p>Always learning!</p>
+</body>
 
 <!---
 ninh-nguyen01/ninh-nguyen01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
