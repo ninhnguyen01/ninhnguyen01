@@ -5,7 +5,6 @@
     </h2>
   </pre>
 </head>
-<br>
 
 <body>
     <h1>💻 Tech Stack</h1>
@@ -15,7 +14,6 @@
         <li>📊 <strong>Data Visualization:</strong> Tableau 📈</li>
         <li>☁️ <strong>Cloud Computing:</strong> Amazon Web Services (AWS) 🖥️</li>
     </ul>
-  <br>
   
   <h2>Words of Wisdom for My Fellow Developers: </h2>
   <img src="/asset/John Wick meme.gif" alt="Winston's quote from John Wick" height="420">
