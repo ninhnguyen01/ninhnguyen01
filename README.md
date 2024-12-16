@@ -1,7 +1,8 @@
 <head>
   <pre>
-- 👋 Hi, I’m Ninh. I'm a software developer.
-- 💻 See you in my engineering life.
+    <h2>👋 Hi, I’m Ninh. I'm a software developer.
+💻 See you in my engineering life.
+    </h2>
   </pre>
 </head>
 <br>
@@ -14,7 +15,8 @@
         <li>📊 <strong>Data Visualization:</strong> Tableau 📈</li>
         <li>☁️ <strong>Cloud Computing:</strong> Amazon Web Services (AWS) 🖥️</li>
     </ul>
-  <p>Always learning!</p>
+  <br>
+  <h2>Always learning!</h2>
 </body>
 
 <!---
