@@ -10,9 +10,9 @@
     <h1>💻 Tech Stack</h1>
     <ul>
         <li>👨‍💻 <strong>Programming:</strong> Python 🐍 | HTML 🌐 | CSS 🎨 | JavaScript ✨ | Node.js 🛠️ | React.js ⚛️</li>
-        <li>🛠️ <strong>Platform:</strong> Visual Studio Code 🖋️ | Anaconda 🐍 | Google Colab 📓</li>
-        <li>📊 <strong>Data Visualization:</strong> Tableau 📈</li>
-        <li>☁️ <strong>Cloud Computing:</strong> Amazon Web Services (AWS) 🖥️</li>
+        <li>🛠️ <strong>Platform:</strong> Visual Studio Code 🖋️ | Anaconda 🐍 | Google Colab 📓 | Cloudfare 🌐 </li>
+        <li>📊 <strong>Data Dashboard:</strong> Tableau 📈</li>
+        <li>☁️ <strong>Cloud Service:</strong> Amazon Web Services (AWS) 🖥️</li>
     </ul>
   
   <h2>Words of Wisdom for My Fellow Developers: </h2>
