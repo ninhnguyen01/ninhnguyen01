@@ -1,6 +1,6 @@
 <head>
   <pre>
-    <h2>👋 Hi, I’m Ninh. I'm a software developer.
+    <h2>👋 Hi, I’m Ninh. I'm a software Engineer.
 💻 See you in my engineering life.
     </h2>
   </pre>
