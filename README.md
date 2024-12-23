@@ -18,8 +18,6 @@
   <h2>Words of Wisdom: </h2>
   
   <h3><b>"Be a man of focus, commitment, sheer will..."<b></h3>
-
-  <h3><b>"For a man to grant a marker to another, is to bind a soul to a blood oath."</b></h3>
   
   <h3>But most importantly...</h3>
   <img src="/asset/John Wick meme.gif" alt="Winston's quote from John Wick" height="420">
