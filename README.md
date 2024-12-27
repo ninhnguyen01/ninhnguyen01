@@ -14,12 +14,17 @@
         <li>📊 <strong>Data Dashboard:</strong> Tableau 📈</li>
         <li>☁️ <strong>Cloud Service:</strong> Amazon Web Services (AWS) 🖥️</li>
     </ul>
-  
+
+  <h3>Principles:</h3>
+  <ul>
+    <li>Courage - Do What Is Right.</li>
+    <li>Respect - Without Respect There Is No Trust.</li>
+    <li>Modesty - Talk About Yourself Without Pride.</li>
+    <li>Sincerity - Speak Truthfully.</li>
+    <li>Honor - Faithful to Your Words.</li>
+    <li>Politeness - Respect of Others.</li>
+
   <h2>Words of Wisdom: </h2>
-  
-  <h3><b>"Be a man of focus, commitment, sheer will..."<b></h3>
-  
-  <h3>But most importantly...</h3>
   <img src="/asset/John Wick meme.gif" alt="Winston's quote from John Wick" height="420">
 </body>
 
