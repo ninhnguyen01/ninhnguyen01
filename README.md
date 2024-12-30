@@ -19,7 +19,6 @@
   <ul>
     <li>Courage - Do What Is Right.</li>
     <li>Respect - Without Respect There Is No Trust.</li>
-    <li>Modesty - Talk About Yourself Without Pride.</li>
     <li>Sincerity - Speak Truthfully.</li>
     <li>Honor - Faithful to Your Words.</li>
     <li>Politeness - Respect of Others.</li>
