@@ -22,7 +22,10 @@
     <li>Sincerity - Speak Truthfully.</li>
     <li>Honor - Faithful to Your Words.</li>
     <li>Politeness - Respect of Others.</li>
+  </ul>
 
+  <h3>"My father used to say, How you do anything is how you do everything. Called it the first and the last rule of life." - Movie Quote</h3>
+  
   <h2>Words of Wisdom: </h2>
   <img src="/asset/John Wick meme.gif" alt="Winston's quote from John Wick" height="420">
 </body>
