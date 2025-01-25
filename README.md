@@ -9,7 +9,7 @@
 <body>
     <h1>💻 Tech Stack</h1>
     <ul>
-        <li>👨‍💻 <strong>Programming:</strong> Python 🐍 | HTML 🌐 | CSS 🎨 | JavaScript ✨ | Node.js 🛠️ | React.js ⚛️</li>
+        <li>👨‍💻 <strong>Programming:</strong> Python 🐍 | Java ☕️ | HTML 🌐 | CSS 🎨 | JavaScript ✨ | Node.js 🛠️ | React.js ⚛️</li>
         <li>🛠️ <strong>Platform:</strong> Visual Studio Code 🖋️ | Vite ⚡ | Anaconda 🐍 | Google Colab 📓 | Cloudfare 🌐 </li>
         <li>📊 <strong>Data Dashboard:</strong> Tableau 📈</li>
         <li>☁️ <strong>Cloud Service:</strong> Amazon Web Services (AWS) 🖥️</li>
