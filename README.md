@@ -1,8 +1,8 @@
 <head>
   <pre>
-    <h2>👋 Hi, I’m Ninh. I'm a software engineer.
+    <h1>👋 Hi, I’m Ninh. I'm a software engineer.
 💻 See you in my engineering life.
-    </h2>
+    </h1>
   </pre>
 </head>
 
@@ -26,8 +26,10 @@
 
   <h3>"My father used to say, How you do anything is how you do everything. Called it the first and the last rule of life." - Movie Quote</h3>
   
-  <h2>Words of Wisdom: </h2>
+  <h3>Words of Wisdom: </h3>
   <img src="/asset/John Wick meme.gif" alt="Winston's quote from John Wick" height="420">
+  <br>
+  <h3>&copy 2025 - present. Ninh Nguyen. All rights reserved.</h3>
 </body>
 
 <!---
