@@ -7,7 +7,7 @@
 </head>
 
 <body>
-    <h1>💻 Tech Stack</h1>
+    <h1>🧑🏻‍💻 Tech Stack 🧑🏻‍💻</h1>
     <ul>
       <li><strong>Backend Programming:</strong> Python | Java </li>
       <li><strong>Web Developement:</strong> HTML | CSS | JavaScript | Node.js | React.js </li>
