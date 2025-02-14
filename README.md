@@ -9,8 +9,10 @@
 <body>
     <h1>🧑🏻‍💻 Tech Stack 🧑🏻‍💻</h1>
     <ul>
-      <li><strong>Backend Programming:</strong> Python | Java </li>
-      <li><strong>Web Development:</strong> HTML | CSS | JavaScript | Node.js | React.js </li>
+      <li>Programming / Web Technologies: Python | Java | HTML | CSS | JavaScript | Node.js | React.js</li>
+      <li>Data Science: Jupyter | Colab | Anaconda | Apache | JSON</li>
+      <li>Visualization: Tableau | Power BI | Looker</li>
+      <li>Cloud Storage / Database: Cloudflare | Amazon Web Services (AWS) | Microsoft Azure | Google Cloud | Snowflake | Neo4j | MongoDB | PostgreSQL | MySQL | SQLite </li>
     </ul>
 
   <h3>Principles:</h3>
