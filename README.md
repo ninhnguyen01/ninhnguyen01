@@ -13,10 +13,10 @@
   </ul>
 
   <h3>Websites Portfolio (subject to change):</h3>
-  <a href="https://korea-5n2.pages.dev/" target="_blank" rel="noopener noreferrer">Learn Korean</a>
-  <a href="https://rome-5hp.pages.dev/" target="_blank" rel="noopener noreferrer">Roman History</a>
-  <a href="https://judo-1jg.pages.dev/" target="_blank" rel="noopener noreferrer">Judo</a>
-  <a href="https://circle-4ot.pages.dev/" target="_blank" rel="noopener noreferrer">Circumference</a>
+  <a href="https://korea-5n2.pages.dev/">Learn Korean</a>
+  <a href="https://rome-5hp.pages.dev/">Roman History</a>
+  <a href="https://judo-1jg.pages.dev/">Judo</a>
+  <a href="https://circle-4ot.pages.dev/">Circumference</a>
   <br>
 
   <h3>Principles:</h3>
