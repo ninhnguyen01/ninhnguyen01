@@ -1,6 +1,5 @@
 <head>
   <h1>Hi, I’m Ninh. I'm a software engineer. 👋🏻</h1>
-  <h1>See you in my engineering life. 💻</h1>
 </head>
 
 <body>
