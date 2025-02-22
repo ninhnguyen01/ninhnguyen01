@@ -1,5 +1,5 @@
 <head>
-  <h1>Hi, I’m Ninh. I'm a software engineer. 👋🏻</h1>
+  <h1>Hi, I’m Ninh. Software Engineer 💻 and Judoka 🥋.</h1>
 </head>
 
 <body>
