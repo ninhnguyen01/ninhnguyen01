@@ -13,7 +13,7 @@
 
   <h3>Websites Portfolio (subject to change):</h3>
   <h4>Language/Culture/Sport</h4>
-  <a href="https://korea-5n2.pages.dev/">Korean 84</a>
+  <a href="https://korea-5n2.pages.dev/">Korean</a>
   <a href="https://rome-5hp.pages.dev/">Roman History</a>
   <a href="https://judo-1jg.pages.dev/">Judo</a>
   <br>
