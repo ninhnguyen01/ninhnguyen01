@@ -12,24 +12,18 @@
   </ul>
 
   <h3>Websites Portfolio (subject to change):</h3>
-  <h4>Language/Culture/Sport/Map</h4>
+  <h4>Language/ Culture/ Sport</h4>
   <a href="https://korea-5n2.pages.dev/">Korean</a>
   <a href="https://rome-5hp.pages.dev/">Roman History</a>
   <a href="https://judo-1jg.pages.dev/">Judo</a>
-  <a href="https://europe-e4m.pages.dev/">EU Map</a>
   <br>
   <h4>Math</h4>
-  <a href="https://police-clock.pages.dev/">Police Clock</a>
-  <a href="https://clock-3tx.pages.dev/">Clock</a>
   <a href="https://temp-vpg.pages.dev/">Temperature</a>
   <a href="https://circle-4ot.pages.dev/">Circumference</a>
   <br>
   <h4>API/Database</h4>
   <a href="https://weather-40h.pages.dev/">Weather Status</a>
   <a href="https://pokemon-6rh.pages.dev/">Pokemon</a>
-  <br>
-  <h4>Music</h4>
-  <a href="https://party-3f0.pages.dev/">Party</a>
   <br>
   
   <h3>Principles:</h3>
