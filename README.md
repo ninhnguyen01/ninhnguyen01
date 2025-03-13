@@ -5,14 +5,14 @@
 <body>
   <h1>Tech Stack 🧑🏻‍💻</h1>
   <ul>
-    <li>Programming / Web Technologies: Python | Java | HTML | CSS | JavaScript | Node.js | React.js</li>
+    <li>Programming / Web Technologies: <b>Python</b> | <b>Java</b> | <b>HTML</b> | <b>CSS</b> | <b>JavaScript</b> | <b>Node.js</b> | <b>React.js</b> | <b>C++</b></li>
     <li>Data Science: Jupyter | Colab | Anaconda | Apache | JSON</li>
     <li>Visualization: Tableau | Power BI | Looker</li>
     <li>Cloud Storage / Database: Cloudflare | Amazon Web Services (AWS) | Microsoft Azure | Google Cloud | Snowflake | Neo4j | MongoDB | PostgreSQL | MySQL | SQLite </li>
   </ul>
 
   <h3>Websites Portfolio (subject to change):</h3>
-  <h4>Language/ Culture/ Sport</h4>
+  <h4>Language | Culture | Sport</h4>
   <a href="https://korea-5n2.pages.dev/">Korean</a>
   <a href="https://rome-5hp.pages.dev/">Roman History</a>
   <a href="https://judo-1jg.pages.dev/">Judo</a>
@@ -21,7 +21,7 @@
   <a href="https://temp-vpg.pages.dev/">Temperature</a>
   <a href="https://circle-4ot.pages.dev/">Circumference</a>
   <br>
-  <h4>API/Database</h4>
+  <h4>API | Database</h4>
   <a href="https://weather-40h.pages.dev/">Weather Status</a>
   <a href="https://pokemon-6rh.pages.dev/">Pokemon</a>
   <br>
@@ -40,7 +40,7 @@
   <h3>Words of Wisdom about Life: </h3>
   <img src="/asset/John Wick meme.gif" alt="Winston's quote from John Wick" height="420">
   <footer>
-    <h3>Contact: nnguy.53@gmail.com</h3>
+    <h3>Email: nnguy.53@gmail.com</h3>
     <h3>&copy 2025 - present. Ninh Nguyen. All rights reserved.</h3>
   </footer>
 </body>
