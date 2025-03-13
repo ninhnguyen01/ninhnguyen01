@@ -39,11 +39,12 @@
   
   <h3>Words of Wisdom about Life: </h3>
   <img src="/asset/John Wick meme.gif" alt="Winston's quote from John Wick" height="420">
-  <footer>
-    <h3>Email: nnguy.53@gmail.com</h3>
-    <h3>&copy 2025 - present. Ninh Nguyen. All rights reserved.</h3>
-  </footer>
 </body>
+
+<footer>
+  <h3>Email: nnguy.53@gmail.com</h3>
+  <h3>&copy 2025 - present. Ninh Nguyen. All rights reserved.</h3>
+</footer>
 
 <!---
 ninh-nguyen01/ninh-nguyen01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
