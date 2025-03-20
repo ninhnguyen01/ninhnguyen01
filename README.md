@@ -5,7 +5,7 @@
 <body>
   <h1>Tech Stack 🧑🏻‍💻</h1>
   <ul>
-    <li>Programming / Web Technologies: <b>Python</b> | <b>Java</b> | <b>HTML</b> | <b>CSS</b> | <b>JavaScript</b> | <b>Node.js</b> | <b>React.js</b> | <b>C++</b></li>
+    <li>Programming / Web Technologies: <b>Python</b> | <b>Java</b> | <b>HTML</b> | <b>CSS</b> | <b>JavaScript</b> | <b>Node.js</b> | <b>React.js</b> | <b>C++</b> | <b>Rust</b></li>
     <li>Data Science: Jupyter | Colab | Anaconda | Apache | JSON</li>
     <li>Visualization: Tableau | Power BI | Looker</li>
     <li>Cloud Storage / Database: Cloudflare | Amazon Web Services (AWS) | Microsoft Azure | Google Cloud | Snowflake | Neo4j | MongoDB | PostgreSQL | MySQL | SQLite </li>
