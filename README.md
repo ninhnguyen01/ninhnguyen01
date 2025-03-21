@@ -13,7 +13,7 @@
 
   <h3>Websites Portfolio (subject to change):</h3>
   <h4>Language Learning</h4>
-  <img src="/asset/Korean86.png" alt="QR code for Korean language website" height="300">
+  <span><img src="/asset/Korean86.png" alt="QR code for Korean language website" height="300"><img src="/asset/Chinese86.png" alt="QR code for Chinese language website" height="300"></span>
   <h4>Culture | Sport</h4>
   <a href="https://rome-5hp.pages.dev/">Roman History</a>
   <a href="https://judo-1jg.pages.dev/">Judo</a>
