@@ -23,7 +23,6 @@
   <a href="https://circle-4ot.pages.dev/">Circumference</a>
   <br>
   <h4>API | Database</h4>
-  <a href="https://weather-40h.pages.dev/">Weather Status</a>
   <a href="https://pokemon-6rh.pages.dev/">Pokemon</a>
   <br>
   
