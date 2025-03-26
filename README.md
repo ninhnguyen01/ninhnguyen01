@@ -27,7 +27,7 @@
   <a href="https://pokemon-6rh.pages.dev/">Pokemon</a>
   <br>
   
-  <h3>Principles:</h3>
+  <h3>Principles to Live by:</h3>
   <ul>
     <li>Courage - Do What Is Right.</li>
     <li>Respect - Without Respect There Is No Trust.</li>
