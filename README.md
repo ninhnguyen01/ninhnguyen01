@@ -20,7 +20,7 @@
   <a href="https://pokemon-6rh.pages.dev/">Pokemon</a>
   <br>
   
-  <h3>Principles to Live by:</h3>
+  <h3>Martial Principles:</h3>
   <ul>
     <li>Courage - Do What Is Right.</li>
     <li>Respect - Without Respect There Is No Trust.</li>
@@ -33,7 +33,6 @@
   
   <h3>Words of Wisdom about Life: </h3>
   <img src="/asset/John Wick meme.gif" alt="Winston's quote from John Wick" height="420">
-  <h3>"LIVE WELL"</h3>
 </body>
 
 <footer>
