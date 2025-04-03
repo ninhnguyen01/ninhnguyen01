@@ -28,11 +28,12 @@
     <li>Honor - Faithful to Your Words.</li>
     <li>Politeness - Respect of Others.</li>
   </ul>
-
-  <h3>"My father used to say, How you do anything is how you do everything. Called it the first and the last rule of life." - Movie Quote</h3>
+  
+  <h3><mark>"How you do anything is how you do everything. Honor the old ways (language, culture, tradition, or custom)."</mark></h3>
   
   <h3>Words of Wisdom about Life: </h3>
   <img src="/asset/John Wick meme.gif" alt="Winston's quote from John Wick" height="420">
+  <h3>"LIVE WELL"</h3>
 </body>
 
 <footer>
