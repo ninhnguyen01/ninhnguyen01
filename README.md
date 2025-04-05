@@ -3,7 +3,7 @@
 </head>
 
 <body>
-  <h2>Programming / Web Technologies: Python | Java | C++ | HTML | CSS | JavaScript | Node.js | React | Rust | Golang 🧑🏻‍💻</h2>
+  <h2>Programming & Web Technologies: Python | Java | C++ | HTML | CSS | JavaScript | Node.js | React | Rust | Golang 🧑🏻‍💻</h2>
 
   <h3>Websites Portfolio (subject to change):</h3>
   <h4>Language Learning</h4>
