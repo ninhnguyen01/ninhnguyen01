@@ -23,9 +23,6 @@
   <a href="https://temp-vpg.pages.dev/">Temperature</a>
   <a href="https://circle-4ot.pages.dev/">Circumference</a>
   <br>
-  <h4>API | Database</h4>
-  <a href="https://pokemon-6rh.pages.dev/">Pokemon</a>
-  <br>
   
   <h3>Martial Principles:</h3>
   <ul>
