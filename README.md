@@ -11,8 +11,6 @@
     <li><mark>English:</mark> If a person learn a new language, the person does not learn only the language, a little culture, and history, but also the perspectives of the world and time from those people who speak the language.</li>
     <li><mark>German:</mark> Wenn eine person eine neue Sprache lernt, lernt die person nicht nur die Sprache, ein bisschen Kultur, und Geschichte, aber auch die Perspektiven der Welt und Zeit von dieser Leute, die die Sprache sprechen.
     </li>
-    <li><mark>Spanish:</mark> Si una persona aprende un nuevo idioma, la persona no solo aprende el idioma, un poco cultura y historia, pero tambien las perspectivas del mundo y tiempo de esa gente quien habla el idioma.</li>
-    <li><mark>Latin:</mark> Si persona novam linguam discit, persona non solam linguam discit, parvam culturam et historiam, sed etiam perspectivorum mundi et temporis de illo populo qui linguam dicit.</li>
   </ul>
   <span><img src="/asset/Korean82.png" alt="QR code for Korean language website" height="300"><img src="/asset/Chinese86.png" alt="QR code for Chinese language website" height="300"><img src="/asset/Germany49.png" alt="QR code for German language website" height="300"></span>
   <h4>Culture | Sport</h4>
