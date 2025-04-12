@@ -12,7 +12,7 @@
     <li><mark>German:</mark> Wenn eine person eine neue Sprache lernt, lernt die person nicht nur die Sprache, ein bisschen Kultur, und Geschichte, aber auch die Perspektiven der Welt und Zeit von dieser Leute, die die Sprache sprechen.
     </li>
   </ul>
-  <span><img src="/asset/Korean82.png" alt="QR code for Korean language website" height="300"><img src="/asset/Chinese86.png" alt="QR code for Chinese language website" height="300"><img src="/asset/Germany49.png" alt="QR code for German language website" height="300"></span>
+  <span><img src="/asset/Korean82.png" alt="QR code for Korean language website" height="200"><img src="/asset/Chinese86.png" alt="QR code for Chinese language website" height="200"><img src="/asset/Germany49.png" alt="QR code for German language website" height="200"></span>
   <h4>Culture | Sport</h4>
   <a href="https://rome-5hp.pages.dev/">Roman History</a>
   <a href="https://judo-1jg.pages.dev/">Judo</a>
@@ -33,10 +33,6 @@
   
   <h3><mark>"How you do anything is how you do everything. Honor the old ways (language, culture, tradition, or custom)."</mark></h3>
   
-  <h3>Words of Wisdom about Life: </h3>
-  <img src="/asset/John Wick meme.gif" alt="Winston's quote from John Wick" height="420">
-</body>
-
 <footer>
   <h3>Email: nnguy.53@gmail.com</h3>
   <h3>&copy 2025 - present. Ninh Nguyen. All rights reserved.</h3>
