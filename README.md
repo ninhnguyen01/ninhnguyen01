@@ -1,5 +1,6 @@
 <head>
-  <h1>Hi, I’m Ninh (Software Engineer 💻 and Judoka 🥋)</h1>
+  <h1>Hi, I’m Ninh (Software Engineer and Judoka)</h1>
+  <h3><mark>"How you do anything is how you do everything. Honor the old ways (language, culture, tradition, or custom)."</mark></h3>
 </head>
 
 <body>
@@ -13,11 +14,11 @@
     </li>
   </ul>
   <span><img src="/asset/Korean82.png" alt="QR code for Korean language website" height="200"><img src="/asset/Chinese86.png" alt="QR code for Chinese language website" height="200"><img src="/asset/Germany49.png" alt="QR code for German language website" height="200"></span>
-  <h4>Culture | Sport</h4>
+  <h3>Culture | Sport</h3>
   <a href="https://rome-5hp.pages.dev/">Roman History</a>
   <a href="https://judo-1jg.pages.dev/">Judo</a>
   <br>
-  <h4>Math</h4>
+  <h3>Math</h3>
   <a href="https://temp-vpg.pages.dev/">Temperature</a>
   <a href="https://circle-4ot.pages.dev/">Circumference</a>
   <br>
@@ -30,8 +31,6 @@
     <li>Honor - Faithful to Your Words.</li>
     <li>Politeness - Respect of Others.</li>
   </ul>
-  
-  <h3><mark>"How you do anything is how you do everything. Honor the old ways (language, culture, tradition, or custom)."</mark></h3>
   
 <footer>
   <h3>Email: nnguy.53@gmail.com</h3>
