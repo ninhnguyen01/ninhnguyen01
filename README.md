@@ -19,6 +19,7 @@
   <a href="https://judo-1jg.pages.dev/">Judo</a>
   <br>
   <h3>Math</h3>
+  <a href="https://counter01.pages.dev/">Counter</a>
   <a href="https://temp-vpg.pages.dev/">Temperature</a>
   <a href="https://circle-4ot.pages.dev/">Circumference</a>
   <br>
