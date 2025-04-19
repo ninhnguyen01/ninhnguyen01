@@ -7,7 +7,7 @@
   <h2>Programming & Web Technologies: Python | Java | HTML | CSS | JavaScript | Node.js | React | Svelte | Rust | C++ | Golang 🧑🏻‍💻</h2>
 
   <h3>Websites Portfolio (subject to change):</h3>
-  <h4>Language Learning (Why?)</h4>
+  <h4><a href="https://langhub.pages.dev/">Foreign Language</a></h4>
   <ul>
     <li><mark>English:</mark> If a person learn a new language, the person does not learn only the language, a little culture, and history, but also the perspectives of the world and time from those people who speak the language.</li>
     <li><mark>German:</mark> Wenn eine person eine neue Sprache lernt, lernt die person nicht nur die Sprache, ein bisschen Kultur, und Geschichte, aber auch die Perspektiven der Welt und Zeit von dieser Leute, die die Sprache sprechen.
