@@ -4,8 +4,6 @@
 </head>
 
 <body>
-  <h2>Programming & Web Technologies: Python | Java | HTML | CSS | JavaScript | Node.js | React | Svelte | Rust | C++ | Golang 🧑🏻‍💻</h2>
-
   <h3>Websites Portfolio (subject to change):</h3>
   <h4><a href="https://langhub.pages.dev/">Foreign Language</a></h4>
   <ul>
