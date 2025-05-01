@@ -17,6 +17,7 @@
   <a href="https://judo1882.pages.dev/">Judo</a>
   <br>
   <h3>Math</h3>
+  <a href="https://loancalculator-8s7.pages.dev/">Loan Calculator</a>
   <a href="https://calculator-9h1.pages.dev/">Compound Interest Calculator</a>
   <a href="https://counter01.pages.dev/">Counter</a>
   <a href="https://temp-vpg.pages.dev/">Temperature</a>
