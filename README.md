@@ -21,18 +21,11 @@
     </li>
   </ul>
   <span><img src="/asset/Korea82.png" alt="QR code for Korean" height="200"><img src="/asset/Chinese86.png" alt="QR code for Chinese" height="200"><img src="/asset/Germany49.png" alt="QR code for German" height="200"><img src="/asset/Italy39.png" alt="QR code for Italian" height="200"><img src="/asset/France33.png" alt="QR code for French Grammar" height="200"></span>
-  
-  <h3>Sport | Culture</h3>
-  <a href="https://judo1882.pages.dev/">Judo</a>
-  <a href="https://rome01.pages.dev/">Roman History</a>
+
+  <h4>Judo</h4>
+  <img src="/asset/judo.png" alt=" Judo QR code" height="200">
   <br>
   
-  <h3>Math</h3>
-  <a href="https://loancalculator-8s7.pages.dev/">Loan Calculator</a>
-  <a href="https://calculator-9h1.pages.dev/">Compound Interest Calculator</a>
-  <a href="https://temp-vpg.pages.dev/">Temperature</a>
-  <br>
-    
   <footer>
     <h3>Email: nnguy.53@gmail.com</h3>
     <h3>&copy 2025 - present. Ninh Nguyen. All rights reserved.</h3>
