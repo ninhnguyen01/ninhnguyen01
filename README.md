@@ -1,6 +1,6 @@
 <head>
   <h1>Hi, I’m Ninh (Software Engineer & Judoka)</h1>
-  <h3><mark>"How you do anything is how you do everything. Honor the old ways (language, culture, tradition, or custom)."</mark></h3>
+  <h3><mark>"How you do anything is how you do everything. Honor the old ways (language, culture, tradition)."</mark></h3>
 </head>
 
 <body>
