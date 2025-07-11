@@ -24,7 +24,13 @@
 
   <h4>Judo</h4>
   <img src="/asset/judo.png" alt=" Judo QR code" height="200" width="200">
-  <br>
+
+  <h3>Non-tech Project:</h3>
+  <ul>
+    <li>Finance (in-progress)</li>
+    <li>Police (in-progress)</li>
+    <li>Military (in-progress)</li>
+  </ul>
   
   <footer>
     <h3>Email: ninhbusiness01@gmail.com</h3>
