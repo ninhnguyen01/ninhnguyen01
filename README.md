@@ -27,9 +27,9 @@
 
   <h3>Non-tech Project:</h3>
   <ul>
-    <li>Finance (in-progress)</li>
-    <li>Police (in-progress)</li>
-    <li>Military (in-progress)</li>
+    <li>Finance & Accounting</li>
+    <li>Police</li>
+    <li>Military</li>
   </ul>
   
   <footer>
