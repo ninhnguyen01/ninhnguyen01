@@ -20,7 +20,7 @@
     <li><mark>German:</mark> Wenn eine person eine neue Sprache lernt, lernt die person nicht nur die Sprache, ein bisschen Kultur, und Geschichte, aber auch die Perspektiven der Welt und Zeit von dieser Leute, die die Sprache sprechen.
     </li>
   </ul>
-  <span><img src="/asset/Korea82.png" alt="QR code for Korean" height="200" width="200"><img src="/asset/China86.png" alt="QR code for Chinese" height="200" width="200"><img src="/asset/Germany49.png" alt="QR code for German" height="200" width="200"><img src="/asset/Italy39.png" alt="QR code for Italian" height="200" width="200"><img src="/asset/France33.png" alt="QR code for French Grammar" height="200" width="200"></span>
+  <span><img src="/asset/Korea82.png" alt="QR code for Korean" height="200" width="200"><img src="/asset/China86.png" alt="QR code for Chinese" height="200" width="200"><img src="/asset/Italy39.png" alt="QR code for Italian" height="200" width="200"><img src="/asset/France33.png" alt="QR code for French Grammar" height="200" width="200"></span>
 
   <h4>Judo</h4>
   <img src="/asset/judo.png" alt=" Judo QR code" height="200" width="200">
