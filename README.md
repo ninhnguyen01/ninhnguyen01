@@ -1,5 +1,5 @@
 <head>
-  <h1>Hi, I’m Ninh (Software Engineer & Judoka) with personal interest in (Finance & Accounting)</h1>
+  <h1>Hi, I’m Ninh (Software Engineer & Judoka) with interest in (Finance & Accounting)</h1>
   <h3><mark>"How you do anything is how you do everything. Honor the old ways (language & culture)."</mark></h3>
 </head>
 
