@@ -1,7 +1,6 @@
 <head>
   <h1>Hi, I’m Ninh. Software Engineer & Judoka.</h1>
   <h2><mark>"How you do anything is how you do everything. Honor the old ways (language & culture)."</mark></h2>
-  <h2>C'est la vie.</h2>
 </head>
 
 <body>
