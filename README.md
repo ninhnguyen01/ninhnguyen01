@@ -19,7 +19,6 @@
   
   <footer>
     <h3>Email: ninhbusiness01@gmail.com</h3>
-    <h3>&copy 2025 - present. Ninh Nguyen. All rights reserved.</h3>
   </footer>
 </body>
 
