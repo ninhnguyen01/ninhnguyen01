@@ -17,7 +17,7 @@
   <img src="/asset/judo.png" alt=" Judo QR code" height="200" width="200">
   
   <footer>
-    <h3>Email: ninhbusiness01@gmail.com</h3>
+    <h3>Email: ninhnguyen01@protonmail.com</h3>
   </footer>
 </body>
 
