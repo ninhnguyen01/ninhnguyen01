@@ -1,5 +1,6 @@
 <head>
   <h1>Hi, I’m Ninh. Software Engineer & Judoka.</h1>
+  <h2>Ninh (Vietnamese), 닌 (Korean), 安宁 (Chinese) - East Asian cultural sphere</h2>
   <h2>"How you do anything is how you do everything. Honor the old ways (language & culture)."</h2>
 </head>
 
@@ -13,7 +14,7 @@
     <li>Politeness - Respect of Others.</li>
   </ul>
   
-  <h4>Judo</h4>
+  <h4>Judo (Japanese Martial Art)</h4>
   <img src="/asset/judo.png" alt=" Judo QR code" height="200" width="200">
   
   <footer>
