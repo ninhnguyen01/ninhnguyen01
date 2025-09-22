@@ -5,7 +5,18 @@
 </head>
 
 <body>
- <h3>Principles:</h3>
+  <h3>Programmer Ethics:</h3>
+  <ul>
+    <li>(1) Contribute to Society - minimize negative effects (e.g., Long and bad job application system such as being forced to make a workday account).</li>
+    <li>(2) Avoid harm (e.g., Bad software that led to the death of people in the Boeing plane crash scandal).</li>
+    <li>(3) Be honest and trustworthy (e.g., Tinder initially failed to screen or report criminals to users).</li>
+    <li>(4) Be fair (e.g., Facial recognition software would misidenitfy people because of bad data from lack of diversity).</li>
+    <li>(5) Respect the effort (e.g., give credit where it's due).</li>
+    <li>(6) Respect privacy (e.g., During the time of East Germany, 4-6 Stasi (secret police agent) would stalk and collect info on each person or other Stasi to intimidate, kidnap, arrest, or kill).</li>
+    <li>(7) Honor confidentiality (e.g., company secrets).</li>
+  </ul>
+  
+  <h3>Principles:</h3>
   <ul>
     <li>Respect - Without Respect There Is No Trust.</li>
     <li>Honor - Faithful to Your Words.</li>
