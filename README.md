@@ -7,20 +7,20 @@
 <body>
   <h3>Programmer Ethics:</h3>
   <ul>
-    <li>(1) Contribute to Society - minimize negative effects (e.g., Long and bad job application system such as being forced to make a workday account).</li>
-    <li>(2) Avoid harm (e.g., Bad software that led to the death of people in the Boeing plane crash scandal).</li>
-    <li>(3) Be honest and trustworthy (e.g., Tinder initially failed to screen or report criminals to users).</li>
-    <li>(4) Be fair (e.g., Facial recognition software would misidenitfy people because of bad data from lack of diversity).</li>
-    <li>(5) Respect the effort (e.g., give credit where it's due).</li>
-    <li>(6) Respect privacy (e.g., During the time of East Germany, 4-6 Stasi (secret police agent) would stalk and collect info on each person or other Stasi to intimidate, kidnap, arrest, or kill).</li>
-    <li>(7) Honor confidentiality (e.g., company secrets).</li>
+    <li>(1) <b>Contribute to Society</b> - minimize negative effects (e.g., Long and bad job application system such as being forced to make a workday account).</li>
+    <li>(2) <b>Avoid harm</b> (e.g., Bad software that led to the death of people in the Boeing plane crash scandal).</li>
+    <li>(3) <b>Be honest and trustworthy</b> (e.g., Tinder initially failed to screen or report criminals to users).</li>
+    <li>(4) <b>Be fair</b> (e.g., Facial recognition software would misidenitfy people because of bad data from lack of diversity).</li>
+    <li>(5) <b>Respect the effort</b> (e.g., give credit where it's due).</li>
+    <li>(6) <b>Respect privacy</b> (e.g., During the time of East Germany, 4-6 Stasi (secret police agent) would stalk and collect info on each person or other Stasi to intimidate, kidnap, arrest, or kill).</li>
+    <li>(7) <b>Honor confidentiality</b> (e.g., company secrets).</li>
   </ul>
   
   <h3>Principles:</h3>
   <ul>
-    <li>Respect - Without Respect There Is No Trust.</li>
-    <li>Honor - Faithful to Your Words.</li>
-    <li>Politeness - Respect of Others.</li>
+    <li><b>Respect</b> - Without Respect There Is No Trust.</li>
+    <li><b>Honor</b> - Faithful to Your Words.</li>
+    <li><b>Politeness</b> - Respect of Others.</li>
   </ul>
   
   <h3>Judo (Japanese Martial Art)</h3>
