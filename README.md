@@ -10,9 +10,9 @@
     <li>(1) <b>Contribute to Society</b> - minimize negative effects (e.g., Long and bad job application system such as being forced to make a workday account).</li>
     <li>(2) <b>Avoid harm</b> (e.g., Bad software that led to the death of people in the Boeing plane crash scandal).</li>
     <li>(3) <b>Be honest and trustworthy</b> (e.g., Tinder initially failed to screen or report criminals to users).</li>
-    <li>(4) <b>Be fair</b> (e.g., Facial recognition software would misidenitfy people because of bad data from lack of diversity).</li>
+    <li>(4) <b>Be fair</b> (e.g., Facial recognition software would misidentify people because of bad data from lack of diversity).</li>
     <li>(5) <b>Respect the effort</b> (e.g., give credit where it's due).</li>
-    <li>(6) <b>Respect privacy</b> (e.g., During the time of East Germany, 4-6 Stasi (secret police agent) would stalk and collect info on each person or other Stasi to intimidate, kidnap, arrest, or kill).</li>
+    <li>(6) <b>Respect privacy</b> (e.g., During the time of East Germany, Stasi (secret police agent) would stalk and collect info on each person or other Stasi to intimidate, kidnap, arrest, or kill).</li>
     <li>(7) <b>Honor confidentiality</b> (e.g., company secrets).</li>
   </ul>
   
