@@ -7,7 +7,7 @@
 <body>
   <h3>Programmer Ethics:</h3>
   <ul>
-    <li>(1) <b>Contribute to Society</b> - minimize negative effects (e.g., Long and bad job application system such as being forced to make a workday account).</li>
+    <li>(1) <b>Contribute to society</b> - minimize negative effects (e.g., Long and bad job application system such as being forced to make a workday account).</li>
     <li>(2) <b>Avoid harm</b> (e.g., Bad software that led to the death of people in the Boeing plane crash scandal).</li>
     <li>(3) <b>Be honest and trustworthy</b> (e.g., Tinder initially failed to screen or report criminals to users).</li>
     <li>(4) <b>Be fair</b> (e.g., Facial recognition software would misidentify people because of bad data from lack of diversity).</li>
@@ -15,6 +15,16 @@
     <li>(6) <b>Respect privacy</b> (e.g., During the time of East Germany, Stasi (secret police agent) would stalk and collect info on each person or other Stasi to intimidate, kidnap, arrest, or kill).</li>
     <li>(7) <b>Honor confidentiality</b> (e.g., Company secrets).</li>
   </ul>
+
+  <h3>Importance of Testing, Quality Assurance, and Human Intervention:</h3>
+  <ul>
+    <li>(1) <b>WW3, almost…</b> (In 1980, NORAD reported that the US was under missile attack. The problem was caused by a faulty circuit, a possibility the reporting software hadn’t taken into account.
+In 1983, a Soviet satellite reported incoming US missiles, but the officer in charge decided to follow his gut feeling that it was a false alarm and decided to do nothing).
+</li>
+    <li>(2) <b>Undetected hole in the ozone layer</b> (The hole in the ozone layer over Antarctica remained undetected for a long period of time because the data analysis software used by NASA in its project to map the ozone layer had been designed to ignore values that deviated greatly from expected measurements).</li>
+    <li>(3) <b>Flight crashes</b> (A software-induced flight crash happened in 1993, when an error in the flight-control software for the Swedish JAS 39 Gripen fighter aircraft was behind a widely publicized crash in Sweden).</li>
+  </ul>
+  <p>Source: "10 historical software bugs with extreme consequences" - SolarWinds</p>
   
   <h3>Principles:</h3>
   <ul>
