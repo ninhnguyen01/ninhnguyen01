@@ -40,12 +40,6 @@ In 1983, a Soviet satellite reported incoming US missiles, but the officer in ch
 
   <img src="/asset/fitness.JPG" alt="quote" height="800" width="400">
 
-  <h3>------------------------------------------------</h3>
-  <h3>John Wick 2 (Theme - Commitment)</h3>
-  <p><b>“A marker is no small thing, John. For a man to grant a marker to another, is to bind a soul to a blood oath."
-    - Santino D' Antonio to John Wick</b></p>
-  <h3>------------------------------------------------</h3>
-  
   <footer>
     <h3>Email: ninhnguyen01@protonmail.com</h3>
   </footer>
