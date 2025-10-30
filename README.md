@@ -34,9 +34,11 @@ In 1983, a Soviet satellite reported incoming US missiles, but the officer in ch
   </ul>
   
   <h3>Judo (Japanese Martial Art)</h3>
-  <img src="/asset/judo.png" alt=" Judo QR code" height="200" width="200">
+  <img src="/asset/judo.png" alt="Judo QR code" height="200" width="200">
 
   <p><b>One of the martial arts seen throughout the John Wick franchise is judo, with John (Jardani) himself being its primary user</b>. Founded by Kano Jigoro, judo is well-known for its throwing techniques. John is a highly skilled judoka, and throughout the franchise often relies on various judo throws to catch his opponents off-guard.</p>
+
+  <img src="/asset/fitness.JPG" alt="quote" height="800" width="400">
 
   <h3>------------------------------------------------</h3>
   <h3>John Wick 2 (Theme - Commitment)</h3>
