@@ -38,6 +38,8 @@ In 1983, a Soviet satellite reported incoming US missiles, but the officer in ch
   <p><b>One of the martial arts seen throughout the John Wick franchise is judo, with John (Jardani) himself being its primary user</b>. Founded by Kano Jigoro, judo is well-known for its throwing techniques. John is a highly skilled judoka, and throughout the franchise often relies on various judo throws to catch his opponents off-guard.</p>
 
   <img src="/asset/fitness.JPG" alt="quote" height="800" width="400">
+  <p>“It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of light, it was the season of darkness, it was the spring of hope, it was the winter of despair.”
+― Charles Dickens, A Tale of Two Cities </p>
 
   <footer>
     <h3>Email: ninhnguyen01@protonmail.com</h3>
