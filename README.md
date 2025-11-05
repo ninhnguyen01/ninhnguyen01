@@ -41,7 +41,10 @@ In 1983, a Soviet satellite reported incoming US missiles, but the officer in ch
   <img src="/asset/fitness.JPG" alt="quote" height="800" width="400">
   <p>Image source: Internet</p>
   
-  <p><b>“It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness,</b> it was the epoch of belief, it was the epoch of incredulity, it was the season of light, it was the season of darkness, it was the spring of hope, it was the winter of despair.” - Charles Dickens, A Tale of Two Cities </p>
+  <p>“<b>It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness,</b> it was the epoch of belief, it was the epoch of incredulity, it was the season of light, it was the season of darkness, it was the spring of hope, it was the winter of despair.” - <b>Charles Dickens, A Tale of Two Cities</b></p>
+
+  <p><b>“A debt is no small thing. For a man to grant a service to another, is to bind a soul to a blood oath. To repay a debt displays gratitude. 
+    Otherwise, ungratefulness can lead to consequences (social & economic)." - Ninh Nguyen</b></p>
 
   <footer>
     <h3>Email: ninhnguyen01@protonmail.com</h3>
