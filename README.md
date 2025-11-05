@@ -1,7 +1,6 @@
 <head>
   <h1>Software Engineer & Judoka.</h1>
   <h2>Ninh (Vietnamese), 닌 (Korean), 安宁 (Chinese) - East Asian cultural sphere</h2>
-  <h2>German song: Leben Schnell (Live fast) - Nash</h2>
 </head>
 
 <body>
