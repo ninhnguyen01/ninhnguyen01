@@ -42,8 +42,7 @@ In 1983, a Soviet satellite reported incoming US missiles, but the officer in ch
   
   <p>“<b>It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness,</b> it was the epoch of belief, it was the epoch of incredulity, it was the season of light, it was the season of darkness, it was the spring of hope, it was the winter of despair.” - <b>Charles Dickens, A Tale of Two Cities</b></p>
 
-  <p><b>“A debt is no small thing. For a man to grant a service to another, is to bind a soul to a blood oath. To repay a debt displays gratitude. 
-    Otherwise, ungratefulness can lead to consequences (social & economic)." - Ninh Nguyen</b></p>
+  <p><b>“A debt is no small thing. For a man to grant a service to another, is to bind a soul to a blood oath." - Ninh Nguyen</b></p>
 
   <footer>
     <h3>Email: ninhnguyen01@protonmail.com</h3>
