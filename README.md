@@ -25,12 +25,7 @@ In 1983, a Soviet satellite reported incoming US missiles, but the officer in ch
   </ul>
   <p>Source: "10 historical software bugs with extreme consequences" - SolarWinds</p>
   
-  <h3>Principles:</h3>
-  <ul>
-    <li><b>Respect</b> - Without Respect There Is No Trust.</li>
-    <li><b>Honor</b> - Faithful to Your Words.</li>
-    <li><b>Politeness</b> - Respect of Others.</li>
-  </ul>
+  <h3><b>“A debt is no small thing. For a man to grant a service to another, is to bind a soul to a blood oath."</b></h3>
   
   <h3>Judo (Japanese Martial Art)</h3>
   <img src="/asset/judo.png" alt="Judo QR code" height="200" width="200">
@@ -41,8 +36,6 @@ In 1983, a Soviet satellite reported incoming US missiles, but the officer in ch
   <p>Image source: Internet</p>
   
   <p>“<b>It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness,</b> it was the epoch of belief, it was the epoch of incredulity, it was the season of light, it was the season of darkness, it was the spring of hope, it was the winter of despair.” - <b>Charles Dickens, A Tale of Two Cities</b></p>
-
-  <p><b>“A debt is no small thing. For a man to grant a service to another, is to bind a soul to a blood oath." - Ninh Nguyen</b></p>
 
   <footer>
     <h3>Email: ninhnguyen01@protonmail.com</h3>
