@@ -27,15 +27,13 @@ In 1983, a Soviet satellite reported incoming US missiles, but the officer in ch
   
   <h3><b>“A debt is no small thing. For a man to grant a service to another, is to bind a soul to a blood oath."</b></h3>
   
-  <h3>Judo (Japanese Martial Art)</h3>
+  <h3>QR Code - Judo (Japanese Martial Art)</h3>
   <img src="/asset/judo.png" alt="Judo QR code" height="200" width="200">
 
   <p><b>One of the martial arts seen throughout the John Wick franchise is judo, with John (Jardani) himself being its primary user</b>. Founded by Kano Jigoro, judo is well-known for its throwing techniques. John is a highly skilled judoka, and throughout the franchise often relies on various judo throws to catch his opponents off-guard.</p>
 
   <img src="/asset/fitness.JPG" alt="quote" height="800" width="400">
   <p>Image source: Internet</p>
-  
-  <p>“<b>It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness,</b> it was the epoch of belief, it was the epoch of incredulity, it was the season of light, it was the season of darkness, it was the spring of hope, it was the winter of despair.” - <b>Charles Dickens, A Tale of Two Cities</b></p>
 
   <footer>
     <h3>Email: ninhnguyen01@protonmail.com</h3>
