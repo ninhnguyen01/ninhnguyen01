@@ -35,6 +35,10 @@ In 1983, a Soviet satellite reported incoming US missiles, but the officer in ch
   <img src="/asset/fitness.JPG" alt="quote" height="800" width="400">
   <p>Image source: Internet</p>
 
+  <br>
+  <p>Support me if you use any of my code:</p>
+  <img src="/asset/qr-code.png" alt="buyMeACoffee" height="200" width="200">
+
   <footer>
     <h3>Email: ninhnguyen01@protonmail.com</h3>
   </footer>
