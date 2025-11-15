@@ -28,14 +28,12 @@ In 1983, a Soviet satellite reported incoming US missiles, but the officer in ch
   <h3>QR Code - Judo (Japanese Martial Art)</h3>
   <img src="/asset/judo.png" alt="Judo QR code" height="200" width="200">
 
-  <p><b>One of the martial arts seen throughout the John Wick franchise is judo, with John (Jardani) himself being its primary user</b>. Founded by Kano Jigoro, judo is well-known for its throwing techniques. John is a highly skilled judoka, and throughout the franchise often relies on various judo throws to catch his opponents off-guard.</p>
-
   <img src="/asset/fitness.JPG" alt="quote" height="800" width="400">
   <p>Image source: Internet</p>
 
   <br>
   <h3><b>“A debt is no small thing. For a man to grant a service to another, is to bind a soul to a blood oath."</b></h3>
-  <h4>Support me if you use any of my code:</h4>
+  <h4>Support me for my codebase and projects:</h4>
   <img src="/asset/qr-code.png" alt="buyMeACoffee" height="200" width="200">
 
   <footer>
