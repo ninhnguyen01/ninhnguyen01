@@ -28,9 +28,6 @@ In 1983, a Soviet satellite reported incoming US missiles, but the officer in ch
   <h3>QR Code - Judo (Japanese Martial Art)</h3>
   <img src="/asset/judo.png" alt="Judo QR code" height="200" width="200">
 
-  <img src="/asset/fitness.JPG" alt="quote" height="800" width="400">
-  <p>Image source: Internet</p>
-
   <h3><b>“A debt is no small thing. For a man to grant a service to another, is to bind a soul to a blood oath."</b></h3>
   <h4>Support me for my codebase and projects:</h4>
   <img src="/asset/qr-code.png" alt="buyMeACoffee" height="200" width="200">
