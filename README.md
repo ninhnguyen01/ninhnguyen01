@@ -29,7 +29,7 @@ In 1983, a Soviet satellite reported incoming US missiles, but the officer in ch
   <img src="/asset/judo.png" alt="Judo QR code" height="200" width="200">
 
   <h3><b>“A debt is no small thing. For a man to grant a service to another, is to bind a soul to a blood oath."</b></h3>
-  <h4>Support me for my codebase and projects:</h4>
+  <h3>Support me for my codebase and projects:</h3>
   <img src="/asset/qr-code.png" alt="buyMeACoffee" height="200" width="200">
 
   <footer>
