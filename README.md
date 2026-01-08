@@ -1,6 +1,6 @@
 <head>
   <h1>Software Engineer & Judoka.</h1>
-  <h2>Ninh (Vietnamese), 닌 (Korean), 安宁 (Chinese) - East Asian cultural sphere</h2>
+  <h2>Ninh (Vietnamese), ニン (Japanese), 닌 (Korean), 安宁 (Chinese) - East Asian cultural sphere</h2>
 </head>
 
 <body>
@@ -24,16 +24,20 @@ In 1983, a Soviet satellite reported incoming US missiles, but the officer in ch
     <li>(3) <b>Flight crashes</b> (A software-induced flight crash happened in 1993, when an error in the flight-control software for the Swedish JAS 39 Gripen fighter aircraft was behind a widely publicized crash in Sweden).</li>
   </ul>
   <p>Source: "10 historical software bugs with extreme consequences" - SolarWinds</p>
-  
-  <h3>QR Code - Judo (Japanese Martial Art)</h3>
-  <img src="/asset/judo.png" alt="Judo QR code" height="200" width="200">
 
-  <h3><b>“A debt is no small thing. For a man to grant a service to another, is to bind a soul to a blood oath."</b></h3>
-  <h3>Support me for my codebase and projects:</h3>
+  <hr>
+  
+  <h3>Judo (Japanese Martial Art)</h3>
+  <img src="/asset/judo.png" alt="Judo QR code" height="200" width="200">
+  <p>Most people are no doubt familiar with the words jujutsu and judo, but how many can distinguish between them? Here, I will explain the two terms and tell why judo came to take the place of jujutsu.
+    <b>Many martial arts were practiced in Japan during its feudal age: the use of the lance, archery, swordsmanship and many more. Jujutsu was one such art.</b> Also called taijutsu and yawara, it was a system of attack that
+    involved throwing, hitting, kicking, stabbing, slashing, choking, bending and twisting limbs, pinning an opponent, and defenses against these attacks. Although jujutsu's techniques were known from the earliest times, it      was not until the latter half of the sixteenth century that jujutsu was practiced and taught systematically. <b>During the Edo period (1603-1868) it developed into a complex art taught by the masters of a number of schools.</b></p>
+
+  <h3>Buy me a Boba</h3>
   <img src="/asset/qr-code.png" alt="buyMeACoffee" height="200" width="200">
 
   <footer>
-    <h3>Email: ninhnguyen01@protonmail.com</h3>
+    <h3>Email: ninhnguyen01@outlook.com</h3>
   </footer>
 </body>
 
