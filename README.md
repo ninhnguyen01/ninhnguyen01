@@ -6,7 +6,7 @@
 <body>
   <h3>Programmer Ethics:</h3>
   <ul>
-    <li>(1) <b>Contribute to society</b> - minimize negative effects (e.g., Long and bad job application system such as being forced to make a workday account).</li>
+    <li>(1) <b>Contribute to society- minimize negative effects</b>  (e.g., bad job application system such as workday, LinkedIn [social media aspect], self-driving car hit people, UCAV drone strikes on civilians).</li>
     <li>(2) <b>Avoid harm</b> (e.g., Bad software that led to the death of people in the Boeing plane crash scandal).</li>
     <li>(3) <b>Be honest and trustworthy</b> (e.g., Tinder initially failed to screen or report criminals to users).</li>
     <li>(4) <b>Be fair</b> (e.g., Facial recognition software would misidentify people because of bad data from lack of diversity).</li>
