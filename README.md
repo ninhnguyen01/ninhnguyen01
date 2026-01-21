@@ -1,6 +1,8 @@
 <head>
   <h1>Software Engineer & Judoka.</h1>
   <h2>Ninh (Vietnamese), ニン (Japanese), 닌 (Korean), 安宁 (Chinese) - East Asian cultural sphere</h2>
+  <h3>"It's your journey. No one but you can choose what you become or the path you take. All I can promise you is it will be an amazing journey."
+    - Daniel Jackson to Jack O'Neill (on Ascension - obtaining a certain level of wisdom and knowledge)</h3>
 </head>
 
 <body>
@@ -24,7 +26,7 @@ In 1983, a Soviet satellite reported incoming US missiles, but the officer in ch
     <li>(3) <b>Flight crashes</b> (A software-induced flight crash happened in 1993, when an error in the flight-control software for the Swedish JAS 39 Gripen fighter aircraft was behind a widely publicized crash in Sweden).</li>
   </ul>
   <p>Source: "10 historical software bugs with extreme consequences" - SolarWinds</p>
-
+  
   <hr>
   
   <h3>Judo (Japanese Martial Art)</h3>
