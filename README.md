@@ -1,8 +1,8 @@
 <head>
   <h1>Software Engineer & Judoka.</h1>
   <h2>Ninh (Vietnamese), ニン (Japanese), 닌 (Korean), 安宁 (Chinese) - East Asian cultural sphere</h2>
-  <h3>"It's your journey. No one but you can choose what you become or the path you take. All I can promise you is it will be an amazing journey."
-    - Daniel Jackson Ph.D. to Jack O'Neill (on obtaining a certain level of wisdom and knowledge)</h3>
+  <h3>"When I was very young, I was foolish enough to believe that our Creed (set of beliefs) would bring an end to all these conflicts (human wars). If only I had possessed the humility to say to myself, I have seen enough for one life, I've done my part. Then again, there is no greater glory than fighting to find the truth."
+- ALTAÏR TO HIS SON DARIM</h3>
 </head>
 
 <body>
