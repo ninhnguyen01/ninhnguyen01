@@ -37,10 +37,6 @@ In 1983, a Soviet satellite reported incoming US missiles, but the officer in ch
 
   <h3>Buy me a Boba</h3>
   <img src="/asset/qr-code.png" alt="buyMeACoffee" height="200" width="200">
-
-  <footer>
-    <h3>Email: ninhnguyen01@outlook.com</h3>
-  </footer>
 </body>
 
 <!---
