@@ -33,10 +33,8 @@ In 1983, a Soviet satellite reported incoming US missiles, but the officer in ch
   <img src="/asset/judo.png" alt="Judo QR code" height="200" width="200">
   <p><b>"Most people are no doubt familiar with the words jujutsu and judo, but how many can distinguish between them?</b> Here, I will explain the two terms and tell why judo came to take the place of jujutsu.
     <b>Many martial arts were practiced in Japan during its feudal age: the use of the lance, archery, swordsmanship and many more. Jujutsu was one such art.</b> Although jujutsu's techniques were known from the earliest times, it was not until the latter half of the sixteenth century that jujutsu was practiced and taught systematically. <b>During the Edo period (1603-1868) it developed into a complex art taught by the masters of a number of schools."</b></p>
-    <p><b>-- Sensei Kano Jigoro</b></p>
+    <p><b>- Sensei Kano Jigoro</b></p>
 
-  <h3>Buy me a Boba</h3>
-  <img src="/asset/qr-code.png" alt="buyMeACoffee" height="200" width="200">
 </body>
 
 <!---
