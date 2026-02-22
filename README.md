@@ -1,7 +1,7 @@
 <head>
   <h1>Software Engineer & Judoka.</h1>
   <h2>Ninh (Vietnamese), ニン (Japanese), 닌 (Korean), 安宁 (Chinese) - East Asian cultural sphere</h2>
-  <h3>"The men who wore these armor (Samurai) were a caste of ancient warriors. Bound to their masters for life (Daimyo). They were fearless and loyal, and lived by a sacred code (Eg., Honour: This is to be Faithful to the Words You Offer & Politeness: It's the Respect of Others). Where others embraced greed and deception, as samurai, you will only honor and sacrifice. The sharpest of their blade was match only by the purity of their heart. You remind me of those proud warriors, for you too are pure." - Taurin (Into the Badlands)</h3>
+  <h3>"The men who wore these armor (Samurai) were a caste of ancient warriors. Bound to their masters for life (Daimyo). They were fearless and loyal, and lived by a sacred code (Eg., Honour: This is to be Faithful to the Words You Offer & Politeness: It's the Respect of Others). Where others embraced greed and deception, as samurai, you will only honor and sacrifice. The sharpest of their blade was match only by the purity of their heart." - Taurin (Into the Badlands)</h3>
 </head>
 
 <body>
