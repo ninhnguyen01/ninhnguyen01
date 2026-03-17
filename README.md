@@ -1,5 +1,5 @@
 <head>
-  <h1>Software Engineer, Judoka, Jujutsuka.</h1>
+  <h1>Engineer, Judoka, Jujutsuka.</h1>
   <h2>Ninh (Vietnamese), ニン (Japanese), 닌 (Korean), 安宁 (Chinese) - East Asian cultural sphere</h2>
   <h3>"The men who wore these armor were a caste of ancient warriors. Bound to their masters for life (Daimyo). They were fearless and loyal, and lived by a sacred code (Eg., Honor & Politeness). Where others embraced greed and deception, as samurai, you will only honor and sacrifice. The sharpest of their blade was match only by the purity of their heart." - Taurin (Into the Badlands)</h3>
 </head>
