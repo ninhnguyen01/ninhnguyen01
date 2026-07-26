@@ -1,5 +1,5 @@
 <head>
-  <h1>Engineer, Judoka, Jujutsuka.</h1>
+  <h1>Engineer, Judoka, Jujutsuka</h1>
   <h2>Ninh (Vietnamese), ニン (Japanese), 닌 (Korean), 安宁 (Chinese) - East Asian cultural sphere</h2>
   <h3>"The men who wore these armor were a caste of ancient warriors...They were fearless and loyal, and lived by a sacred code. Where others embraced greed and deception, as samurai, you will only honor and sacrifice. The sharpness of their blades was match only by the purity of their hearts..." - Taurin (Into the Badlands)</h3>
 </head>
@@ -18,12 +18,11 @@
   
   <hr>
   
-  <h3>Judo (Kano Ju-Jutsu)</h3>
+  <h3>Judo</h3>
+  <h4>Scan the QR code or enter the website name</h4>
   <img src="/asset/judo.png" alt="Judo QR code" height="200" width="200">
   <h3>Website: judo1882.pages.dev</h3>
-  <h3><b>"Most people are no doubt familiar with the words jujutsu and judo, but how many can distinguish between them?</b> Here, I will explain the two terms and tell why judo came to take the place of jujutsu.
-    <b>Many martial arts were practiced in Japan during its feudal age: the use of the lance, archery, swordsmanship and many more. Jujutsu was one such art.</b> Although jujutsu's techniques were known from the earliest times, it was not until the latter half of the sixteenth century that jujutsu was practiced and taught systematically. <b>During the Edo period (1603-1868) it developed into a complex art taught by the masters of a number of schools."</b></h3>
-    <h3><b>- Sensei Kano Jigoro</b></h3>
+  <h3><b>Judo is a Japanese martial art known for Nage-Waza (throwing techniques). It is a grappling martial art (jacket wrestling). Judo consist of 2/3 Tachi-Waza (stand-up) and 1/3 Ne-Waza (ground). Judo came from Japanese Ju-Jutsu, the art of the ancient Samurai from Japan. Judo evolved from Japan's ancient martial arts, and its fundamental spirit is expressed by the phrase, "Rei ni hajimari, rei ni owaru" (Beginning and ending with a bow of respect).</b></h3>
 
 </body>
 
