@@ -22,7 +22,7 @@
   <h4>Scan the QR code or enter the website name</h4>
   <img src="/asset/judo.png" alt="Judo QR code" height="200" width="200">
   <h3>Website: judo1882.pages.dev</h3>
-  <h3><b>Judo is a Japanese martial art known for Nage-Waza (throwing techniques). It is a grappling martial art (jacket wrestling). Judo consist of 2/3 Tachi-Waza (stand-up) and 1/3 Ne-Waza (ground). Judo came from Japanese Ju-Jutsu, the art of the ancient Samurai from Japan. Judo evolved from Japan's ancient martial arts, and its fundamental spirit is expressed by the phrase, "Rei ni hajimari, rei ni owaru" (Beginning and ending with a bow of respect).</b></h3>
+  <h3><b>Judo is a Japanese martial art known for Nage-Waza (throwing techniques). It is a grappling martial art (jacket wrestling). Judo consist of 2/3 Tachi-Waza (stand-up) and 1/3 Ne-Waza (ground). Judo evolved from Japan's ancient martial arts, and its fundamental spirit is expressed by the phrase, "Rei ni hajimari, rei ni owaru" (Beginning and ending with a bow of respect).</b></h3>
 
 </body>
 
