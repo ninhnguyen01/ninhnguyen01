@@ -15,7 +15,7 @@
     <li>(6) <b>Respect privacy</b> (e.g., During the time of East Germany, Stasi (secret police agent) would stalk and collect info on each person or other Stasi to intimidate, kidnap, arrest, or kill).</li>
     <li>(7) <b>Honor confidentiality</b> (e.g., Company secrets).</li>
   </ul>
-  <h3>App Workflow: 1) Concept 2) Requirements 3) UI/UX Design 4) Prototype 5) Deploy 6) Test</h3>
+  <h3>App Workflow: Concept, Requirements, UI/UX Design, Prototype, Deploy, Test</h3>
   <hr>
   
   <h3>Judo</h3>
