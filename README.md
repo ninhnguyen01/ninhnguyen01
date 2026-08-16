@@ -14,7 +14,7 @@
     <li>(3) <b>Be honest and trustworthy</b> (e.g., Tinder initially failed to screen or report criminals to users).</li>
     <li>(4) <b>Be fair</b> (e.g., Facial recognition software would misidentify people because of bad data from lack of diversity).</li>
     <li>(5) <b>Respect the effort</b> (e.g., Give credit where it's due).</li>
-    <li>(6) <b>Respect privacy</b> (e.g., During the time of East Germany, Stasi [secret police agent] would carry out surveillance to collect info on individuals.</li>
+    <li>(6) <b>Respect privacy</b> (e.g., During the time of East Germany, Stasi [secret police agent] would carry out surveillance to collect info on individuals).</li>
     <li>(7) <b>Honor confidentiality</b> (e.g., Company secrets).</li>
   </ul>
   <h3>App Workflow: Concept, Requirements, UI/UX Design, Prototype, Deploy, Test</h3>
