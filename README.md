@@ -18,6 +18,8 @@
     <li>(7) <b>Honor confidentiality</b> (e.g., Company secrets).</li>
   </ul>
   <h3>App Workflow: Concept, Requirements, UI/UX Design, Prototype, Deploy, Test</h3>
+  <h3>"As a developer, you’re rarely done with a piece of software once you’ve launched it. If enough people use an app, you can count on a steady stream of feedback, bug reports, and feature requests, which can consume the time you planned to spend on other projects. Worse, someone else may end up maintaining the code and have no idea how it works.
+In this situation, if you haven’t designed the app’s implementation for ease of maintenance, someone will spend a significant amount of time digging through the code to determine where to make a change and ensure no unintended side effects occur. Even if you’re not feeling particularly charitable toward other developers, there’s always the likelihood that the other developer will be you." - A Software Developer</h3>
   <hr>
   
   <h3>Judo</h3>
