@@ -21,8 +21,8 @@
   </ul>
   <hr>
   <h3>App Workflow: Concept, Requirements, UI/UX Design, Prototype, Deploy, Test</h3>
-  <h3>"As a developer, you’re rarely done with a piece of software once you’ve launched it. If enough people use an app, you can count on a steady stream of feedback, bug reports, and feature requests, which can consume the time you planned to spend on other projects. Worse, someone else may end up maintaining the code and have no idea how it works.
-In this situation, if you haven’t designed the app’s implementation for ease of maintenance, someone will spend a significant amount of time digging through the code to determine where to make a change and ensure no unintended side effects occur. Even if you’re not feeling particularly charitable toward other developers, there’s always the likelihood that the other developer will be you." - A Software Developer</h3>
+  <p>"As a developer, you’re rarely done with a piece of software once you’ve launched it. If enough people use an app, you can count on a steady stream of feedback, bug reports, and feature requests, which can consume the time you planned to spend on other projects. Worse, someone else may end up maintaining the code and have no idea how it works.
+In this situation, if you haven’t designed the app’s implementation for ease of maintenance, someone will spend a significant amount of time digging through the code to determine where to make a change and ensure no unintended side effects occur. Even if you’re not feeling particularly charitable toward other developers, there’s always the likelihood that the other developer will be you." - A Software Developer</p>
   <hr>
   
   <h3>Judo</h3>
@@ -31,7 +31,7 @@ In this situation, if you haven’t designed the app’s implementation for ease
   <h3>Website: judo1882.pages.dev</h3>
   <h3><b>Judo is a Japanese martial art known for Nage-Waza (throwing techniques). It is a form of jacket wrestling. Judo consist of 2/3 Tachi-Waza (stand-up) and 1/3 Ne-Waza (ground). Judo evolved from Japan's ancient martial arts, and its fundamental spirit is expressed by the phrase, "Rei ni hajimari, rei ni owaru" (Beginning and ending with a bow of respect).
   </b></h3>
-  <h3>American Tip Culture vs The World Example</h3>
+  <h3>American Tip Culture vs The World Example:</h3>
   <p>Tipping. Tipping is unnecessary in Japanese restaurants, taxis, barbershops, hotels, and everywhere else. The American notion of directly offering money as a reward for good service is at odds with the relationship that most Japanese think should exist between a guest and an employee whose job is service.</p>
 </body>
 
