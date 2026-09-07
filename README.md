@@ -29,8 +29,8 @@ In this situation, if you haven’t designed the app’s implementation for ease
   <h4>Scan the QR code or enter the website name</h4>
   <img src="/asset/judo.png" alt="Judo QR code" height="200" width="200">
   <h3>Website: judo1882.pages.dev</h3>
-  <h3><b>Judo is a Japanese martial art known for Nage-Waza (throwing techniques). It is a form of jacket wrestling. Judo consist of 2/3 Tachi-Waza (stand-up) and 1/3 Ne-Waza (ground). Judo evolved from Japan's ancient martial arts, and its fundamental spirit is expressed by the phrase, "Rei ni hajimari, rei ni owaru" (Beginning and ending with a bow of respect).
-  </b></h3>
+  <p>Judo is a Japanese martial art known for Nage-Waza (throwing techniques). It is a form of jacket wrestling. Judo consist of 2/3 Tachi-Waza (stand-up) and 1/3 Ne-Waza (ground). Judo evolved from Japan's ancient martial arts, and its fundamental spirit is expressed by the phrase, "Rei ni hajimari, rei ni owaru" (Beginning and ending with a bow of respect).
+  </p>
   <h3>American Tip Culture vs The World Example:</h3>
   <p>Tipping. Tipping is unnecessary in Japanese restaurants, taxis, barbershops, hotels, and everywhere else. The American notion of directly offering money as a reward for good service is at odds with the relationship that most Japanese think should exist between a guest and an employee whose job is service.</p>
 </body>
