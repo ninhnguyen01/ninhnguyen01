@@ -8,6 +8,7 @@
   <p>"<b>For Sutskever, the episode was personally and professionally bruising. He stepped down from the OpenAI board in the wake of the fiasco.</b> For months afterward, reports suggested Sutskever had not been actively working at OpenAI. Some said he was on leave; others said he was quietly leading his team from afar. Either way, it was evident his internal influence had waned. <b>The Altman saga illustrated Sutskever’s profound commitment to AI safety and his willingness to risk everything on principle.</b> But it also illustrated the perils of such a unilateral approach, with a hint of religious fanaticism."</p>
 </head>
 
+<hr>
 <body>
   <h3>Programmer Ethics:</h3>
   <ul>
@@ -19,7 +20,7 @@
     <li>(6) <b>Respect privacy</b> (e.g., During the time of East Germany, Stasi [secret police agent] would carry out surveillance to collect info on individuals).</li>
     <li>(7) <b>Honor confidentiality</b> (e.g., Company secrets).</li>
   </ul>
-  <hr>
+  
   <h3>Software Development Workflow: State the concept, Define the requirements, Visualize the user experience, Brainstorm the implementation, Write the code, and Iterate 
     (SDVBWI).</h3>
   <p>"As a developer, you’re rarely done with a piece of software once you’ve launched it. If enough people use an app, you can count on a steady stream of feedback, bug reports, and feature requests, which can consume the time you planned to spend on other projects. Worse, someone else may end up maintaining the code and have no idea how it works.
@@ -27,7 +28,7 @@ In this situation, if you haven’t designed the app’s implementation for ease
   <hr>
   
   <h3>Judo</h3>
-  <h4>Scan the QR code or enter the website name</h4>
+  <h4>Scan the QR code or enter the website name.</h4>
   <img src="/asset/judo.png" alt="Judo QR code" height="200" width="200">
   <h3>Website: judo1882.pages.dev</h3>
   <p>Judo is a Japanese martial art known for Nage-Waza (throwing techniques). It is a form of wrestling. Judo consist of 2/3 Tachi-Waza (stand-up) and 1/3 Ne-Waza (ground). Judo evolved from Japan's ancient martial arts, and its fundamental spirit is expressed by the phrase, "Rei ni hajimari, rei ni owaru" (Beginning and ending with a bow of respect).
