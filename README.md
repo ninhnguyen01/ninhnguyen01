@@ -25,6 +25,11 @@
     (SDVBWI).</h3>
   <p>"As a developer, you’re rarely done with a piece of software once you’ve launched it. If enough people use an app, you can count on a steady stream of feedback, bug reports, and feature requests, which can consume the time you planned to spend on other projects. Worse, someone else may end up maintaining the code and have no idea how it works.
 In this situation, if you haven’t designed the app’s implementation for ease of maintenance, someone will spend a significant amount of time digging through the code to determine where to make a change and ensure no unintended side effects occur. Even if you’re not feeling particularly charitable toward other developers, there’s always the likelihood that the other developer will be you." - A Software Developer</p>
+
+  <h3>Non-Engineering MBA Leadership Danger (Boeing Example):</h3>
+  <p>The cost of reputational damage<br>
+  When we discuss the Boeing cases in my classes at Harvard Business School, I ask participants, <b>“Are Boeing’s problems caused by individual leadership failures or a flawed culture?” The answer “both” eventually emerges.</b> It was the actions of Condit and Stonecipher that turned Boeing’s culture from excellence in aviation design, quality, and safety into emphasizing short-term profit and distributing cash to shareholders via stock buybacks. McNerney compounded the problem through his decision to launch a quick fix to the 737 rather than design a new airplane. Muilenburg was left with the flawed aircraft, but failed to ground the planes after the first crash and pinpoint the root cause of the failure. <b>The Boeing board, which is composed of exceptional individuals, failed to preserve Boeing’s culture and reputation.</b></p>
+  <p>Source: - "Why Boeing’s Problems with the 737 MAX Began More Than 25 Years Ago" by Bill George</p>
   <hr>
   
   <h3>Judo</h3>
