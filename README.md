@@ -33,6 +33,7 @@ In this situation, if you haven’t designed the app’s implementation for ease
   <hr>
   
   <h3>Judo</h3>
+  <img src="/asset/WJD-2026.jpg" alt="World Judo Day 2026" height="400" width="400">
   <h4>Scan the QR code or enter the website name.</h4>
   <img src="/asset/judo.png" alt="Judo QR code" height="200" width="200">
   <h3>Website: judo1882.pages.dev</h3>
