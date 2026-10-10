@@ -33,12 +33,14 @@ In this situation, if you haven’t designed the app’s implementation for ease
   <hr>
   
   <h3>Judo</h3>
-  <img src="/asset/WJD-2026.jpg" alt="World Judo Day 2026" height="400" width="400">
+  <p>Judo is a Japanese martial art known for Nage-Waza (throwing techniques). It is a form of wrestling. Judo consist of 2/3 Tachi-Waza (stand-up) and 1/3 Ne-Waza (ground). Judo evolved from Japan's ancient martial arts, and its fundamental spirit is expressed by the phrase, "Rei ni hajimari, rei ni owaru" (Beginning and ending with a bow of respect).
+  </p>
+  <span><img src="/asset/WJD-2024.jpg" alt="World Judo Day 2024" height="400" width="400">
+  <img src="/asset/WJD-2026.jpg" alt="World Judo Day 2026" height="400" width="400"></span>
   <h4>Scan the QR code or enter the website name.</h4>
   <img src="/asset/judo.png" alt="Judo QR code" height="200" width="200">
   <h3>Website: judo1882.pages.dev</h3>
-  <p>Judo is a Japanese martial art known for Nage-Waza (throwing techniques). It is a form of wrestling. Judo consist of 2/3 Tachi-Waza (stand-up) and 1/3 Ne-Waza (ground). Judo evolved from Japan's ancient martial arts, and its fundamental spirit is expressed by the phrase, "Rei ni hajimari, rei ni owaru" (Beginning and ending with a bow of respect).
-  </p>
+  
 </body>
 
 <!---
