@@ -1,5 +1,5 @@
 <head>
-  <h1>Engineer, Judoka, Jujutsuka</h1>
+  <h1>Engineer and Judoka</h1>
   <h2>Ninh (Vietnamese), ニン (Japanese), 닌 (Korean), 安宁 (Chinese) - East Asian cultural sphere</h2>
   <h3>"The men who wore these armor were a caste of ancient warriors...They were fearless and loyal, and lived by a sacred code. Where others embraced greed and deception, as samurai, you will only honor and sacrifice..." - Taurin (Into the Badlands)</h3>
   <h3>Samurai Example: Sid Hatfield (Matewan’s chief of police)</h3>
