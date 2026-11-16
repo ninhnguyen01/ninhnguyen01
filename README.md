@@ -36,6 +36,7 @@ In this situation, if you haven’t designed the app’s implementation for ease
   <p>The cost of reputational damage<br>
   When we discuss the Boeing cases in my classes at Harvard Business School, I ask participants, <b>“Are Boeing’s problems caused by individual leadership failures or a flawed culture?” The answer “both” eventually emerges.</b> It was the actions of Condit and Stonecipher that turned Boeing’s culture from excellence in aviation design, quality, and safety into emphasizing short-term profit and distributing cash to shareholders via stock buybacks. McNerney compounded the problem through his decision to launch a quick fix to the 737 rather than design a new airplane. Muilenburg was left with the flawed aircraft, but failed to ground the planes after the first crash and pinpoint the root cause of the failure. <b>The Boeing board, which is composed of exceptional individuals, failed to preserve Boeing’s culture and reputation.</b></p>
   <p>Source: - "Why Boeing’s Problems with the 737 MAX Began More Than 25 Years Ago" by Bill George</p>
+  <span><img src="/asset/software-level.PNG" alt="software level" height="800" width="800">
   <hr>
   
   <h3>Judo (Combat Sport):</h3>
