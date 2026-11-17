@@ -31,6 +31,81 @@
     (SDVBWI).</h3>
   <p>"As a developer, you’re rarely done with a piece of software once you’ve launched it. If enough people use an app, you can count on a steady stream of feedback, bug reports, and feature requests, which can consume the time you planned to spend on other projects. Worse, someone else may end up maintaining the code and have no idea how it works.
 In this situation, if you haven’t designed the app’s implementation for ease of maintenance, someone will spend a significant amount of time digging through the code to determine where to make a change and ensure no unintended side effects occur. Even if you’re not feeling particularly charitable toward other developers, there’s always the likelihood that the other developer will be you." - A Software Developer</p>
+  <table>
+    <thead>
+    <tr>
+      <th>Programming Language</th>
+      <th>Type</th>
+    </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>Ada</th>
+        <th>Compiled</th>
+      </tr>
+      <tr>
+        <th>C</th>
+        <th>Compiled</th>
+      </tr>
+      <tr>
+        <th>C++</th>
+        <th>Compiled</th>
+      </tr>
+      <tr>
+        <th>C#</th>
+        <th>Compiled</th>
+      </tr>
+      <tr>
+        <th>COBOL</th>
+        <th>Compiled</th>
+      </tr>
+      <tr>
+        <th>Fortran</th>
+        <th>Compiled</th>
+      </tr>
+      <tr>
+        <th>Go</th>
+        <th>Compiled</th>
+      </tr>
+      <tr>
+        <th>Java</th>
+        <th>Intermediate language</th>
+      </tr>
+      <tr>
+        <th>JavaScript</th>
+        <th>Interpreted</th>
+      </tr>
+      <tr>
+        <th>Lisp</th>
+        <th>Intermediate language</th>
+      </tr>
+      <tr>
+        <th>Objective-C</th>
+        <th>Compiled</th>
+      </tr>
+      <tr>
+        <th>Perl</th>
+        <th>Interpreted</th>
+      </tr>
+      <tr>
+        <th>PHP</th>
+        <th>Interpreted</th>
+      </tr>
+      <tr>
+        <th>Python</th>
+        <th>Interpreted</th>
+      </tr>
+      <tr>
+        <th>Ruby</th>
+        <th>Interpreted</th>
+      </tr>
+      <tr>
+        <th>Rust</th>
+        <th>Compiled</th>
+      </tr>
+      <tr>
+    </tbody>
+  </table>
 
   <h3>Non-Engineering MBA Leadership Danger (Boeing Example):</h3>
   <p>The cost of reputational damage<br>
