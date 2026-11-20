@@ -2,7 +2,6 @@
   <h1>Engineer and Judoka</h1>
   <h2>Ninh (Vietnamese), ニン (Japanese), 닌 (Korean), 安宁 (Chinese) - East Asian cultural sphere</h2>
   <h3>East Asian Culture Example:</h3>
-  <p>"Confucianism is not a religion; it is an ethical code--a set of rules for proper behavior--that emphasizes order, harmony and respect for elders and seniors..."</p>
   <p>To the Korean people, <b>names are very personal and sensitive matters. Names are to be honored and respected, not used casually or mentioned unnecessarily.</b> In place of names, Koreans prefer to use titles, positions, military ranks or other courtesy titles when speaking to other people, and they expect the same formality in return. Whenever possible, names are left out of conversations~ they are mentioned only when needed to specify a particular individual...According to Korean custom, <b>the family name precedes the given name, so the order is last name, first name, middle name...</b></p>
   <p>Korean society has traditionally been centered around the family, and even today the family connection is still the most important. As a result, a Korean's loyalty is first and foremost to his immediate family and then to other relatives...<b>The family system requires a strong sense of duty and obligation in its members. These obligations are deep and continuing, involving financial as well as moral support. The family name and welfare are more important than individual wants or needs.</b> Even today many Koreans make personal sacrifices for the good of the family...The Korean home provides love, comfort, trust and, despite changing social conditions, true security...</p>
   <hr>
@@ -10,8 +9,6 @@
   <h3>"The men who wore these armor were a caste of ancient warriors...They were fearless and loyal, and lived by a sacred code. Where others embraced greed and deception, as samurai, you will only honor and sacrifice..." - Taurin (Into the Badlands)</h3>
   <h3>Samurai Example: Sid Hatfield (Matewan’s chief of police)</h3>
   <p><b>Born in Pike County, Kentucky, Sid worked as a blacksmith and a coal miner before enlisting to serve in World War I</b>. Having the reputation of a rough-living man, some citizens were surprised when <b>Mayor Cabel Testerman named him Matewan’s chief of police. But he and Testerman shared an unyielding commitment to the miners’ right to organize. Both men would put their lives on the line for that belief. "He was a man of action...Sid became the miner’s hero...</b>As they climbed the courthouse steps, they were met by several Baldwin-Felts agents who shot and killed the two men...<b>Sid Hatfield’s name became forever enshrined in West Virginia history as a true miners’ friend when so few were to be found."</b><br><br>Source: West Virginia Mine Wars Museum, 401 Mate Street, Matewan, WV, 25678, United States</p>
-  <h3>Samurai Example: Sutskever's List (Book Excerpt)</h3>
-  <p>"<b>For Sutskever, the episode was personally and professionally bruising. He stepped down from the OpenAI board in the wake of the fiasco.</b> For months afterward, reports suggested Sutskever had not been actively working at OpenAI. Some said he was on leave; others said he was quietly leading his team from afar. Either way, it was evident his internal influence had waned. <b>The Altman saga illustrated Sutskever’s profound commitment to AI safety and his willingness to risk everything on principle.</b> But it also illustrated the perils of such a unilateral approach, with a hint of religious fanaticism."</p>
 </head>
 
 <hr>
@@ -52,18 +49,6 @@ In this situation, if you haven’t designed the app’s implementation for ease
         <th>Compiled</th>
       </tr>
       <tr>
-        <th>C#</th>
-        <th>Compiled</th>
-      </tr>
-      <tr>
-        <th>COBOL</th>
-        <th>Compiled</th>
-      </tr>
-      <tr>
-        <th>Fortran</th>
-        <th>Compiled</th>
-      </tr>
-      <tr>
         <th>Go</th>
         <th>Compiled</th>
       </tr>
@@ -78,10 +63,6 @@ In this situation, if you haven’t designed the app’s implementation for ease
       <tr>
         <th>Lisp</th>
         <th>Intermediate language</th>
-      </tr>
-      <tr>
-        <th>Objective-C</th>
-        <th>Compiled</th>
       </tr>
       <tr>
         <th>Perl</th>
@@ -117,6 +98,29 @@ In this situation, if you haven’t designed the app’s implementation for ease
   <h3>Judo (Combat Sport):</h3>
   <p>Judo is a Japanese martial art known for Nage-Waza (throwing techniques). It is a form of wrestling. Judo consist of 2/3 Tachi-Waza (stand-up) and 1/3 Ne-Waza (ground). Judo evolved from Japan's ancient martial arts, and its fundamental spirit is expressed by the phrase, "Rei ni hajimari, rei ni owaru" (Beginning and ending with a bow of respect).
   </p>
+  <h3>Nage-Waza Example:</h3>
+  <table>
+    <tr>
+      <th>seoi-nage</th>
+      <th>(shoulder throw)</th>
+    </tr>
+    <tr>
+      <th>tai-otoshi</th>
+      <th>(body drop)</th>
+    </tr>
+    <tr>
+      <th>okuri-ashi-harai</th>
+      <th>(foot sweep)</th>
+    </tr>
+    <tr>
+      <th>tomoe-nage</th>
+      <th>(circular throw)</th>
+    </tr>
+    <tr>
+      <th>yoko-guruma</th>
+      <th>(side wheel)</th>
+    </tr>
+  </table>
   <span><img src="/asset/WJD-2024.jpg" alt="World Judo Day 2024" height="400" width="400">
   <img src="/asset/WJD-2026.jpg" alt="World Judo Day 2026" height="400" width="400"></span>
   <h4>Scan the QR code or enter the website name.</h4>
